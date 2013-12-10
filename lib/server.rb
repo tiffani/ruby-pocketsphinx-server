@@ -5,7 +5,7 @@ require 'iconv'
 require 'set'
 require 'yaml'
 require 'open-uri'
-require 'md5'
+require 'digest/md5'
 require 'uri'
 
 module PocketsphinxServer
